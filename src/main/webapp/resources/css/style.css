@@ -1,0 +1,15 @@
+body, html {
+	height: 100%;
+}
+
+.div-form-consulta {
+	width: 50%;
+}
+
+.page-header {
+	margin-bottom: 70px;
+}
+
+.padding-top {
+	margin-top: 30px;
+}

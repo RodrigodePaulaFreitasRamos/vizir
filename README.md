@@ -7,6 +7,10 @@ Neste Projeto, foi utilizado as ferramentas informadas acima,
 Bootstrap e Spring
 
 OBS:
-Esses são os passos mais simples para executar o testes
+Esses são os passos mais simples para executar o testes.
 
+A aplicação, deve-se executar de maneira padrão do Eclipse,
+selecione o servidor, abra o arquivo index.jsp e execute Run as para o servidor selecionado.
+
+Use o link http://localhost:8080/telefonia/ no browser que estiver utilizando.
 
